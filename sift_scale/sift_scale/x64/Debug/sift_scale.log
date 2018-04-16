@@ -1,0 +1,9 @@
+﻿  sift_scale.cpp
+e:\vs_code\sift_scale\sift_scale\sift_scale.cpp(13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_code\sift_scale\sift_scale\sift_scale.cpp(18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs_code\sift_scale\sift_scale\sift_scale.cpp(28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+e:\vs_code\sift_scale\sift_scale\main.cpp(17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  sift_scale.vcxproj -> E:\vs_code\sift_scale\x64\Debug\sift_scale.exe
+  sift_scale.vcxproj -> E:\vs_code\sift_scale\x64\Debug\sift_scale.pdb (Full PDB)
